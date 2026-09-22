@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "maple",
-  "name": "Poudlard-RP",
+  "name": "Wiki Elderwood RP",
   "colors": {
     "primary": "#ef7025",
     "light": "#eec9bc",
@@ -96,7 +96,7 @@
   },
   "footer": {
     "socials": {
-      "discord": "https://discord.gg/poudlard-rp"
+      "discord": "https://discord.gg/elderwood-rp"
     }
   }
 }
